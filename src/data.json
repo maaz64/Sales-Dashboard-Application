@@ -1,0 +1,13 @@
+{
+    "todays-sales": [
+      { "productName": "Product A", "category": "Category 1", "quantitySold": 10, "salesAmount": 100 },
+      { "productName": "Product B", "category": "Category 2", "quantitySold": 5, "salesAmount": 50 },
+      { "productName": "Product C", "category": "Category 1", "quantitySold": 8, "salesAmount": 80 }
+    ],
+    "sales-comparison": [
+      { "productName": "Product A", "category": "Category 1", "date1Sales": 100, "date2Sales": 120, "difference": 20 },
+      { "productName": "Product B", "category": "Category 2", "date1Sales": 50, "date2Sales": 45, "difference": -5 },
+      { "productName": "Product C", "category": "Category 1", "date1Sales": 80, "date2Sales": 75, "difference": -5 }
+    ]
+  }
+  
